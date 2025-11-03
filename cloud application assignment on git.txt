@@ -1,0 +1,5 @@
+cloud application assignment on git hub
+how to create a repository
+how to add files to the repository
+this is the file i chose to add
+just a simple file
